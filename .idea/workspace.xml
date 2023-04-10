@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2b7cd59-6146-489d-8473-b5343e390b32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/aula_2/exercicio4.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/aula_2/exercicio5.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +16,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Class" />
         <option value="Kotlin Class" />
       </list>
     </option>
@@ -38,7 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Exercicio4Kt">
+  <component name="RunManager" selected="Kotlin.Exercicio5Kt">
     <configuration name="Exercicio1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aula_2.Exercicio1Kt" />
       <module name="nnt-aulas" />
@@ -67,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainKt" />
+    <configuration name="Exercicio5Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula_2.Exercicio5Kt" />
       <module name="nnt-aulas" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Exercicio5Kt" />
         <item itemvalue="Kotlin.Exercicio4Kt" />
         <item itemvalue="Kotlin.Exercicio3Kt" />
         <item itemvalue="Kotlin.Exercicio2Kt" />
         <item itemvalue="Kotlin.Exercicio1Kt" />
-        <item itemvalue="Kotlin.MainKt" />
       </list>
     </recent_temporary>
   </component>
