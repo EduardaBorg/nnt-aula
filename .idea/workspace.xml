@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2b7cd59-6146-489d-8473-b5343e390b32" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/aula_3/tarefaKotlin.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/aula_2/desafioSemanal2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/aula_2/desafioSemanal2.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,16 +39,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.DesafioSemanal2Kt">
+  <component name="RunManager" selected="Kotlin.TarefaKotlinKt">
     <configuration name="DesafioSemanal2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aula_2.DesafioSemanal2Kt" />
-      <module name="nnt-aulas" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercicio3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula_2.Exercicio3Kt" />
       <module name="nnt-aulas" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,13 +68,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TarefaKotlinKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula_3.TarefaKotlinKt" />
+      <module name="nnt-aulas" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TarefaKotlinKt" />
         <item itemvalue="Kotlin.DesafioSemanal2Kt" />
         <item itemvalue="Kotlin.Exercicio6Kt" />
         <item itemvalue="Kotlin.Exercicio5Kt" />
         <item itemvalue="Kotlin.Exercicio4Kt" />
-        <item itemvalue="Kotlin.Exercicio3Kt" />
       </list>
     </recent_temporary>
   </component>
