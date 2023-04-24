@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2b7cd59-6146-489d-8473-b5343e390b32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/aula_3/exercicio_3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/aula_3/exercicio_4.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,14 +53,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Exercicio_3Kt">
-    <configuration name="DesafioSemanal2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula_2.DesafioSemanal2Kt" />
-      <module name="nnt-aulas" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Exercicio_4Kt">
     <configuration name="Exercicio_1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aula_3.Exercicio_1Kt" />
       <module name="nnt-aulas" />
@@ -81,6 +75,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercicio_4Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula_3.Exercicio_4Kt" />
+      <module name="nnt-aulas" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TarefaKotlinKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aula_3.TarefaKotlinKt" />
       <module name="nnt-aulas" />
@@ -90,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Exercicio_4Kt" />
         <item itemvalue="Kotlin.Exercicio_3Kt" />
         <item itemvalue="Kotlin.Exercicio_2Kt" />
         <item itemvalue="Kotlin.Exercicio_1Kt" />
         <item itemvalue="Kotlin.TarefaKotlinKt" />
-        <item itemvalue="Kotlin.DesafioSemanal2Kt" />
       </list>
     </recent_temporary>
   </component>
