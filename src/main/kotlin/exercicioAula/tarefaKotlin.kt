@@ -1,4 +1,4 @@
-package aula_3
+package exercicioAula
 
 import kotlin.math.sqrt
 import kotlin.math.pow
