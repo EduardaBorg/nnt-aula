@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2b7cd59-6146-489d-8473-b5343e390b32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/aula_4/tarefa_1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/aula_4/tarefa_2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercicioAula/CalculoDeIMC.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercicioAula/CalculoRefatorado.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,16 +59,16 @@
       <recent name="C:\Users\Eduarda\Tarefa-Amor\nnt-aulas\src\main\kotlin\exercicioAula" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Tarefa_2Kt">
-    <configuration name="Exercicio_4Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula_3.Exercicio_4Kt" />
+  <component name="RunManager" selected="Kotlin.CalculoRefatoradoKt">
+    <configuration name="CalculoDeIMCKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicioAula.CalculoDeIMCKt" />
       <module name="nnt-aulas" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio_5Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula_3.Exercicio_5Kt" />
+    <configuration name="CalculoRefatoradoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicioAula.CalculoRefatoradoKt" />
       <module name="nnt-aulas" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,11 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.CalculoRefatoradoKt" />
+        <item itemvalue="Kotlin.CalculoDeIMCKt" />
         <item itemvalue="Kotlin.Tarefa_2Kt" />
         <item itemvalue="Kotlin.Tarefa_1Kt" />
         <item itemvalue="Kotlin.FibonacciKt" />
-        <item itemvalue="Kotlin.Exercicio_5Kt" />
-        <item itemvalue="Kotlin.Exercicio_4Kt" />
       </list>
     </recent_temporary>
   </component>
