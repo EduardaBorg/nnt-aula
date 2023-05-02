@@ -1,15 +1,11 @@
 package exercicioAula
 
-import kotlin.system.exitProcess
-
 fun main() {
     while (true) {
         print("Digite o seu peso em kg (para sair do programa digite 0): ")
         val peso = readln().toDouble()
 
-        if (peso == 0.0){
-            break
-        }
+        if (peso == 0.0) break
 
         print("Digite a sua altura em metros: ")
         val altura = readln().toDouble()
