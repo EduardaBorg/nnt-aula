@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2b7cd59-6146-489d-8473-b5343e390b32" name="Changes" comment="" />
+    <list default="true" id="f2b7cd59-6146-489d-8473-b5343e390b32" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/estudandoClasses/Carro.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,8 +17,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -44,18 +47,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Eduarda/Tarefa-Amor/nnt-aulas"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Eduarda\Tarefa-Amor\nnt-aulas\src\main\kotlin\exercicioAula" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.CalculoRefatoradoKt">
+  <component name="RunManager" selected="Kotlin.CarroKt">
     <configuration name="CalculoDeIMCKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercicioAula.CalculoDeIMCKt" />
       <module name="nnt-aulas" />
@@ -70,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FibonacciKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercicioAula.FibonacciKt" />
+    <configuration name="CarroKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudandoClasses.CarroKt" />
       <module name="nnt-aulas" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,11 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.CalculoRefatoradoKt" />
+        <item itemvalue="Kotlin.CarroKt" />
         <item itemvalue="Kotlin.CalculoDeIMCKt" />
+        <item itemvalue="Kotlin.CalculoRefatoradoKt" />
         <item itemvalue="Kotlin.Tarefa_2Kt" />
         <item itemvalue="Kotlin.Tarefa_1Kt" />
-        <item itemvalue="Kotlin.FibonacciKt" />
       </list>
     </recent_temporary>
   </component>
